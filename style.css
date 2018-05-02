@@ -36,7 +36,7 @@ a:hover {
 }
 
 .container {
-  width: 500px;
+  width: 750px;
   margin: 0 auto;
 }
 
@@ -62,3 +62,20 @@ a:hover {
 p {
   text-align: justify;
 }
+
+#sidebar {
+  position: fixed;
+  width: 300px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #384047;
+}
+
+#page-content {
+  margin-left: 200px;
+}
+
+a {color: #788188;
+}
+
